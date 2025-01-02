@@ -1,0 +1,31 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folder (e.g., for pipenv, venv, or conda environments)
+venv/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm and other IDE project files
+.idea/
+
+# VS Code project settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit session state and configuration files
+.streamlit/
+
+# Model files (if they are large and should not be committed)
+fraud_detection.pkl
+
+# Other files to ignore
+*.log
+*.bak
