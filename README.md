@@ -114,7 +114,7 @@ To run the app locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+   git clone https://github.com/alphatechlogics/FraudulentDetection.git
    cd credit-card-fraud-detection
    ```
 
