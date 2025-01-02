@@ -128,3 +128,18 @@ To run the app locally, follow these steps:
    ```bash
    streamlit run app.py
    ```
+
+### SUMMARY
+
+Credit Card Fraud Detection Model Summary 🚨💳
+This project aims to detect fraudulent credit card transactions using a machine learning model built with an ensemble approach. The model is trained using a dataset of anonymized credit card transactions. It combines predictions from multiple classification models to accurately identify whether a transaction is legitimate or fraudulent.
+
+Key Features:
+Principal Components (PCA): The model uses 7 PCA-transformed features (V1, V2, V3, V4, V5, V6, V7) as inputs, which are derived from dimensionality reduction techniques.
+Transaction Details: The model also uses 2 original features, Time (time elapsed since the first transaction) and Amount (the transaction value).
+Use Case:
+Input: The user inputs transaction details, including the 7 PCA features, Time, and Amount.
+Output: The model predicts whether the transaction is fraudulent (1) or legitimate (0).
+By leveraging an ensemble of models, the project aims to provide high accuracy, precision, and recall, ensuring reliable detection of fraudulent transactions.
+
+For ease of use, a Streamlit app allows users to input the necessary features and obtain real-time predictions for credit card transactions.
