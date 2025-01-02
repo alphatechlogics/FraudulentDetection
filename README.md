@@ -98,10 +98,9 @@ To use the fraud detection model, you can input the transaction details into the
 1. **Run the Streamlit App**:
    streamlit run app.py
 
-markdown
-Copy code 2. **Input Features**: The user will be prompted to enter the values for the following features:
+2. **Input Features**: The user will be prompted to enter the values for the following features:
 
-- Principal Components (V1 to V28)
+- Principal Components (V1 to V7)
 - Time (Seconds since the first transaction)
 - Amount (Transaction amount)
 
