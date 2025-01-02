@@ -23,9 +23,6 @@ Thumbs.db
 # Streamlit session state and configuration files
 .streamlit/
 
-# Model files (if they are large and should not be committed)
-fraud_detection.pkl
-
 # Other files to ignore
 *.log
 *.bak
