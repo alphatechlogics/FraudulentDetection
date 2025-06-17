@@ -2,6 +2,8 @@
 
 This project aims to build a machine learning model to detect fraudulent credit card transactions using an ensemble approach. The model was trained on a dataset containing anonymized credit card transactions, and it utilizes multiple classification models to improve the performance.
 
+![](https://raw.github.com/alphatechlogics/FraudulentDetection/7a02c71a207d7d036a113639335b805743aa55d9/image.png)
+
 ## Table of Contents 📑
 
 - [Project Overview](#project-overview-)
